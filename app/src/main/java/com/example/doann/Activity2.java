@@ -56,7 +56,7 @@ public class Activity2 extends AppCompatActivity {
         list.add(new Song(R.drawable.ic_launcher_foreground, "8. HEAD IN THE CLOUD - HAYD", "I miss the days when life was so simple... "));
         list.add(new Song(R.drawable.ic_launcher_foreground, "9. VỆ TINH - HIEUTHUHAI", "Baby em là một ngôi sao ? Vệ tinh luôn... "));
         list.add(new Song(R.drawable.ic_launcher_foreground, "10. PHI HÀNH GIA - LILWWUYN", "Màn đêm xuống gần chót, Có thằng uống... "));
-        return list; // hello
+        return list;
     }
     @Override
     public boolean onCreateOptionsMenu(Menu menu){
